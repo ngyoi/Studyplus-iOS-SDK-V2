@@ -26,6 +26,7 @@
 
 import Foundation
 import KeychainAccess
+import UIKit
 
 /**
  The class for using Studyplus.
